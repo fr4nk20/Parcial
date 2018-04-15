@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintNombre_Apellido">Escriba su nombre y apellido</string>
+    <string name="Departamento">Departamento</string>
+    <string name="Nombre_Apellido">Nombre y Apellido</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Codigo">Codigo Empleado</string>
+    <string name="Telefono">Telefono</string>
+    <string name="hintCedula">Ingrese su Cédula</string>
+    <string name="hintCodigo">Ingrese Código</string>
+    <string name="hintDepartamento">Ingrese Departamento</string>
+    <string name="hintTelefono">Ingrese Número</string>
+    <string name="Guardar">Guardar</string>
+    <string name="error_valid">Complete el formulario</string>
+    <string name="succes_valid">Se guardo</string>
+    <string name="aaction_refresh">Refrescar</string>
+</resources>
